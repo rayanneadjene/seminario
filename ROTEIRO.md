@@ -3,7 +3,7 @@
 # ============================================================
 
 ## SLIDE 1 – CAPA (30 segundos)
-"Bom dia/tarde! Nosso tema hoje é Qualidade de Código com SonarQube.
+"Boa noite. O tema hoje é Qualidade de Código com SonarQube.
 Vamos falar sobre code smells — o que são, como detectar e como corrigir.
 Dividimos em conceito + demonstração prática."
 
